@@ -6,8 +6,11 @@ For Project2
   
   ![](img0.jpg)
 
-* Step1: install all needed python library with runnig following script in cmd
-* pip install pywin32
+* Step1: install all needed python library with runnig the script in cmd (pip install pywin32)
 
+  
 * Step2: Download all the files to your local pc, create following folders(testRPA, Archive,Backup) in your local pc with your own path. Put the sample excel file to testRPA folder.
-* 
+  
+  ![](img1.png)
+  
+  
