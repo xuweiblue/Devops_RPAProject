@@ -38,8 +38,8 @@ strfileName1Dir=arc_dir+strfileName1
 # step 10 send email with the attahced file(orignal excel file, updated excel file, PDF file)
 
 
-sender = 'xuwei.blue@gmail.com'
-receivers = ['xuwei.blue@gmail.com']
+sender = 'XXXX@gmail.com'
+receivers = ['XXXXXX@gmail.com']
 
 # content
 msg = MIMEMultipart()
